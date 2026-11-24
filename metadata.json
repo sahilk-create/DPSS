@@ -1,0 +1,6 @@
+{
+  "name": "Distributed Process Scheduling Simulator",
+  "description": "Interactive operating systems laboratory simulator demonstrating distributed process allocation, CPU scheduling algorithms, dynamic load balancing, task migration, Gantt timelines, and real-time performance analytics across 4 cluster nodes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
